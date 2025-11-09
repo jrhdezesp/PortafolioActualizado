@@ -16,7 +16,7 @@ document.getElementById('app').innerHTML = `
 
   <main>
     <section class="profile-photo-section">
-      <img src="public/img/202304240801200306613.jpg" alt="Foto Futuro Ing Sistemas" class="profile-photo" />
+      <img src="/public/img/202304240801200306613.jpg" alt="Foto Futuro Ing Sistemas" class="profile-photo" />
     </section>
 
     <section class="contact-info" id="contacto">
